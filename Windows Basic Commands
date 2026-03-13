@@ -1,2 +1,3 @@
 Checking ip address of machine - ipconfig
 Cheking the HDD/SSD forcefully when restarting - chkdsk c: /f
+To restart 
